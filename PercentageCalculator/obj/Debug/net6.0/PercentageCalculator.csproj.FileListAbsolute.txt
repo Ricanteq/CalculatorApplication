@@ -1,0 +1,15 @@
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\bin\Debug\net6.0\PercentageCalculator.exe
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\bin\Debug\net6.0\PercentageCalculator.deps.json
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\bin\Debug\net6.0\PercentageCalculator.runtimeconfig.json
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\bin\Debug\net6.0\PercentageCalculator.dll
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\bin\Debug\net6.0\PercentageCalculator.pdb
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\PercentageCalculator.csproj.AssemblyReference.cache
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\PercentageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\PercentageCalculator.AssemblyInfoInputs.cache
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\PercentageCalculator.AssemblyInfo.cs
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\PercentageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\PercentageCalculator.dll
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\refint\PercentageCalculator.dll
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\PercentageCalculator.pdb
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\PercentageCalculator.genruntimeconfig.cache
+C:\Users\rican\RiderProjects\ConsoleAppCalculator\PercentageCalculator\obj\Debug\net6.0\ref\PercentageCalculator.dll
